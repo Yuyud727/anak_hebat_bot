@@ -1,0 +1,19 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Java
+*.class
+*.log
+*.db
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# Environment/Config
+config.properties
+.env
